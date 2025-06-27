@@ -25,14 +25,17 @@ SQLite is an embedded, server-less relational database management system. It is 
 
 SQLite is one of the most popular and easy-to-use relational database systems. It possesses many features over other relational databases. Many big MNCs such as Adobe, use SQLite as the application file format for their Photoshop Lightroom product. Airbus, a European multinational aerospace corporation, uses SQLite in the flight software for the A350 XWB family of aircraft. 
 
-Software and Hardware Requirements
+Software and Hardware Requirements:
+
 Technologies:
 
 •Front End: Python
+
 •Back End: SQLite
 
 Software Requirement:
 
 •Operating System : Windows 7 and above
+
 •Reporting Tool : WPS Office
 
