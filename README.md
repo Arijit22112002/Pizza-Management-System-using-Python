@@ -11,6 +11,7 @@ It would be much more comfortable for the customers to have an online pizza orde
 This system will provide customer all the details of his order before making order. This confirmation will help customers to check the items ordered with their prices.
 
 3)Technology Used
+
   a]Python:
 
 Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation.
