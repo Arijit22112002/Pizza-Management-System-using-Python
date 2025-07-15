@@ -1,16 +1,16 @@
-1) Description
+1)Description
 
 The "Pizza Management System" has been developed to overcome the  problems prevailing in the manual system. This software is supported to eliminate and in some cases reduce the hardships faced by this existing system. Moreover, this system is designed for the particular need of the establishment to carry out operations in a smooth and  effective manner.
 
 The software is reduced as much as possible to avoid errors while  entering the data. No formal knowledge is needed for the user to use  this system. Thus it proves that it is a user-friendly Pizza Management  System, as described above, and can lead to error free, secure, reliable  and fast management system. Thus it will help the organization in  better utilization of resources.
 
-2) Scope of Proposed System
+2)Scope of Proposed System
 
 This system helps customers to place orders online and also eases the workload on the staff of pizza shop. This system will make things easier for staff as whole ordering process is done by customer only.
 It would be much more comfortable for the customers to have an online pizza order. It would be hassle free for users as they can select the pizza they want and make payment for it. Also it will reduce the purchasing time for customers.
 This system will provide customer all the details of his order before making order. This confirmation will help customers to check the items ordered with their prices.
 
-3) Technology Used
+3)Technology Used
 
   a]Python:
 
@@ -26,7 +26,7 @@ SQLite is an embedded, server-less relational database management system. It is 
 
 SQLite is one of the most popular and easy-to-use relational database systems. It possesses many features over other relational databases. Many big MNCs such as Adobe, use SQLite as the application file format for their Photoshop Lightroom product. Airbus, a European multinational aerospace corporation, uses SQLite in the flight software for the A350 XWB family of aircraft. 
 
-4) Software and Hardware Requirements:
+4)Software and Hardware Requirements:
 
   a]Technologies:
 
