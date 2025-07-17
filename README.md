@@ -39,4 +39,42 @@ SQLite is one of the most popular and easy-to-use relational database systems. I
   •Operating System : Windows 7 and above
 
   •Reporting Tool : WPS Office
+  
 
+5) Project Screenshots:
+   
+Home Page:
+   <img width="486" height="246" alt="image" src="https://github.com/user-attachments/assets/69d07c4a-1e5d-4e9d-8506-02bddf06315d" />
+   
+Registration:
+<img width="486" height="247" alt="image" src="https://github.com/user-attachments/assets/d01834db-c925-40d1-863b-4428ea35a845" />
+
+Login:
+
+<img width="487" height="247" alt="image" src="https://github.com/user-attachments/assets/cf478346-8698-4118-b321-9ee2978ab201" />
+
+Delivery or Pick Up:
+
+<img width="486" height="246" alt="image" src="https://github.com/user-attachments/assets/b4323d8b-64a1-4769-bd4d-e9a8b9769ad8" />
+
+Veg or Non-Veg Pizza:
+
+<img width="485" height="246" alt="image" src="https://github.com/user-attachments/assets/7eb74ab2-c707-47f1-8a86-afa669c780eb" />
+
+Veg Pizza:
+
+<img width="487" height="247" alt="image" src="https://github.com/user-attachments/assets/5bbba8ae-fb06-4398-8056-fd0e818d1547" />
+
+<img width="487" height="247" alt="image" src="https://github.com/user-attachments/assets/171296da-ff17-4fe2-a5a6-c6d029cb9f17" />
+
+Non-Veg Pizza:
+
+<img width="483" height="245" alt="image" src="https://github.com/user-attachments/assets/18591c82-a7b7-4be9-bc3d-5248d768251e" />
+
+<img width="482" height="245" alt="image" src="https://github.com/user-attachments/assets/305838ae-225d-4fc0-afc7-0c34e141c4dd" />
+
+Address:
+
+<img width="482" height="245" alt="image" src="https://github.com/user-attachments/assets/6eb1a17b-f3e0-456f-8d4a-44371c34cf7d" />
+
+   
