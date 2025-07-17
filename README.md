@@ -46,9 +46,11 @@ SQLite is one of the most popular and easy-to-use relational database systems. I
 ### 5) Project Screenshots:
    
 Home Page:
-   <img width="486" height="246" alt="image" src="https://github.com/user-attachments/assets/69d07c4a-1e5d-4e9d-8506-02bddf06315d" />
+
+<img width="486" height="246" alt="image" src="https://github.com/user-attachments/assets/69d07c4a-1e5d-4e9d-8506-02bddf06315d" />
    
 Registration:
+
 <img width="486" height="247" alt="image" src="https://github.com/user-attachments/assets/d01834db-c925-40d1-863b-4428ea35a845" />
 
 Login:
@@ -67,11 +69,13 @@ Veg Pizza:
 
 <img width="487" height="247" alt="image" src="https://github.com/user-attachments/assets/5bbba8ae-fb06-4398-8056-fd0e818d1547" />
 
+
 <img width="487" height="247" alt="image" src="https://github.com/user-attachments/assets/171296da-ff17-4fe2-a5a6-c6d029cb9f17" />
 
 Non-Veg Pizza:
 
 <img width="483" height="245" alt="image" src="https://github.com/user-attachments/assets/18591c82-a7b7-4be9-bc3d-5248d768251e" />
+
 
 <img width="482" height="245" alt="image" src="https://github.com/user-attachments/assets/305838ae-225d-4fc0-afc7-0c34e141c4dd" />
 
